@@ -1,0 +1,1427 @@
+Education Level,Job Title,Years of Experience,Salary
+bachelor's degree,software engineer,5,90000
+master's degree,data analyst,3,65000
+phd,senior manager,15,150000
+bachelor's degree,sales associate,7,60000
+master's degree,director,20,200000
+bachelor's degree,marketing analyst,2,55000
+master's degree,product manager,12,120000
+bachelor's degree,sales manager,4,80000
+bachelor's degree,marketing coordinator,1,45000
+phd,senior scientist,10,110000
+master's degree,software developer,3,75000
+bachelor's degree,hr manager,18,140000
+bachelor's degree,financial analyst,6,65000
+master's degree,project manager,14,130000
+bachelor's degree,customer service rep,2,40000
+bachelor's degree,operations manager,16,125000
+master's degree,marketing manager,7,90000
+phd,senior engineer,12,115000
+bachelor's degree,data entry clerk,0,35000
+bachelor's degree,sales director,22,180000
+master's degree,business analyst,5,80000
+master's degree,vp of operations,19,190000
+bachelor's degree,it support,2,50000
+bachelor's degree,recruiter,9,60000
+master's degree,financial manager,13,140000
+bachelor's degree,social media specialist,3,45000
+master's degree,software manager,11,110000
+bachelor's degree,junior developer,1,40000
+phd,senior consultant,15,140000
+master's degree,product designer,6,90000
+bachelor's degree,ceo,25,250000
+bachelor's degree,accountant,4,55000
+master's degree,data scientist,3,75000
+bachelor's degree,marketing specialist,10,65000
+phd,senior manager,20,170000
+bachelor's degree,technical writer,2,45000
+bachelor's degree,hr generalist,7,60000
+master's degree,project engineer,14,115000
+bachelor's degree,customer success rep,1,40000
+bachelor's degree,sales executive,21,160000
+master's degree,ux designer,5,80000
+master's degree,operations director,18,190000
+bachelor's degree,network engineer,3,60000
+bachelor's degree,administrative assistant,8,45000
+master's degree,strategy consultant,13,130000
+bachelor's degree,copywriter,2,40000
+bachelor's degree,account manager,5,75000
+master's degree,director of marketing,16,180000
+phd,senior scientist,11,120000
+bachelor's degree,help desk analyst,0,35000
+bachelor's degree,customer service manager,22,130000
+master's degree,business intelligence analyst,7,85000
+bachelor's degree,event coordinator,12,60000
+master's degree,vp of finance,19,200000
+bachelor's degree,graphic designer,3,50000
+bachelor's degree,sales manager,9,95000
+master's degree,ux researcher,2,65000
+phd,senior engineer,17,140000
+bachelor's degree,social media manager,4,55000
+master's degree,product manager,7,105000
+master's degree,director of operations,23,170000
+bachelor's degree,marketing analyst,3,50000
+bachelor's degree,hr manager,12,80000
+phd,senior data scientist,21,180000
+bachelor's degree,junior accountant,1,35000
+master's degree,digital marketing manager,10,90000
+bachelor's degree,it manager,19,120000
+bachelor's degree,customer service representative,5,45000
+master's degree,business development manager,8,90000
+master's degree,senior financial analyst,18,150000
+bachelor's degree,web developer,6,65000
+bachelor's degree,recruiter,11,70000
+phd,research director,16,190000
+bachelor's degree,technical support specialist,2,40000
+master's degree,creative director,14,120000
+bachelor's degree,project manager,10,95000
+bachelor's degree,operations manager,22,160000
+master's degree,senior software engineer,6,100000
+master's degree,human resources director,20,180000
+bachelor's degree,content marketing manager,3,55000
+bachelor's degree,technical recruiter,8,70000
+master's degree,data analyst,13,80000
+bachelor's degree,sales representative,0,30000
+phd,chief technology officer,24,250000
+bachelor's degree,junior designer,2,40000
+master's degree,financial advisor,10,95000
+bachelor's degree,junior account manager,2,45000
+bachelor's degree,hr generalist,15,80000
+master's degree,senior project manager,21,135000
+bachelor's degree,marketing coordinator,6,55000
+phd,principal scientist,11,120000
+bachelor's degree,sales associate,3,40000
+bachelor's degree,supply chain manager,18,105000
+master's degree,senior marketing manager,25,170000
+bachelor's degree,business analyst,7,75000
+bachelor's degree,training specialist,12,65000
+phd,research scientist,22,160000
+bachelor's degree,junior software developer,1,35000
+master's degree,public relations manager,10,90000
+bachelor's degree,operations analyst,20,110000
+bachelor's degree,event coordinator,5,45000
+master's degree,product marketing manager,8,95000
+master's degree,senior hr manager,19,150000
+bachelor's degree,junior web developer,5,50000
+master's degree,senior project coordinator,13,80000
+phd,chief data officer,16,220000
+bachelor's degree,digital content producer,3,50000
+bachelor's degree,it support specialist,7,60000
+master's degree,senior marketing analyst,14,100000
+bachelor's degree,customer success manager,2,40000
+master's degree,senior graphic designer,15,110000
+bachelor's degree,software project manager,9,95000
+bachelor's degree,supply chain analyst,22,130000
+master's degree,senior business analyst,6,90000
+bachelor's degree,junior marketing analyst,0.5,35000
+master's degree,senior financial analyst,6,95000
+bachelor's degree,office manager,15,65000
+phd,principal engineer,20,170000
+bachelor's degree,junior hr generalist,3,45000
+master's degree,senior product manager,10,120000
+bachelor's degree,sales manager,17,100000
+master's degree,director of marketing,25,180000
+bachelor's degree,junior operations analyst,5,50000
+bachelor's degree,customer service manager,11,80000
+phd,senior scientist,16,140000
+bachelor's degree,junior accountant,2,40000
+master's degree,senior hr generalist,9,95000
+bachelor's degree,sales operations manager,18,110000
+bachelor's degree,marketing coordinator,4,50000
+master's degree,senior software developer,8,105000
+master's degree,director of operations,21,160000
+bachelor's degree,junior web designer,3,45000
+master's degree,senior training specialist,12,100000
+phd,senior research scientist,22,160000
+bachelor's degree,junior sales representative,1,35000
+bachelor's degree,administrative assistant,10,55000
+master's degree,senior project manager,19,140000
+bachelor's degree,junior marketing manager,4,50000
+bachelor's degree,junior data analyst,7,60000
+master's degree,senior product marketing manager,14,120000
+bachelor's degree,junior business analyst,2,40000
+master's degree,senior marketing manager,13,110000
+bachelor's degree,junior software developer,5,50000
+bachelor's degree,senior sales manager,20,135000
+master's degree,junior marketing specialist,1.5,40000
+bachelor's degree,senior business analyst,8,90000
+phd,senior data scientist,16,150000
+bachelor's degree,junior project manager,4,60000
+bachelor's degree,senior accountant,10,80000
+master's degree,director of sales,19,175000
+bachelor's degree,junior recruiter,3,45000
+master's degree,senior business development manager,11,120000
+phd,senior product designer,18,140000
+bachelor's degree,junior customer support specialist,2,35000
+master's degree,senior marketing analyst,9,95000
+bachelor's degree,senior it support specialist,14,110000
+bachelor's degree,junior financial analyst,5,50000
+master's degree,senior operations manager,7,115000
+phd,director of human resources,23,185000
+bachelor's degree,junior software engineer,2,40000
+bachelor's degree,senior sales representative,12,90000
+master's degree,director of product management,21,175000
+bachelor's degree,junior copywriter,3,45000
+bachelor's degree,senior marketing coordinator,7,80000
+master's degree,senior human resources manager,13,120000
+bachelor's degree,junior business development associate,1.5,35000
+bachelor's degree,senior account manager,14,110000
+phd,senior researcher,18,150000
+bachelor's degree,junior hr coordinator,4,50000
+master's degree,senior software engineer,9,105000
+master's degree,director of finance,20,180000
+bachelor's degree,junior marketing coordinator,2,40000
+bachelor's degree,senior project manager,16,140000
+master's degree,junior data scientist,1.5,45000
+bachelor's degree,senior operations analyst,7,85000
+phd,senior marketing manager,18,140000
+bachelor's degree,junior accountant,4,50000
+bachelor's degree,senior human resources coordinator,10,80000
+master's degree,director of operations,20,170000
+bachelor's degree,junior sales representative,2,40000
+master's degree,senior business analyst,9,105000
+phd,senior ux designer,15,145000
+bachelor's degree,junior product manager,2,40000
+bachelor's degree,senior marketing specialist,8,85000
+bachelor's degree,senior it project manager,14,130000
+bachelor's degree,senior quality assurance analyst,9,100000
+phd,director of sales and marketing,22,180000
+bachelor's degree,junior operations analyst,1.5,35000
+bachelor's degree,senior account executive,12,95000
+master's degree,director of business development,19,170000
+bachelor's degree,junior social media manager,3,45000
+bachelor's degree,senior product manager,7,95000
+master's degree,senior human resources specialist,13,120000
+bachelor's degree,senior marketing coordinator,11,90000
+phd,senior data analyst,17,155000
+bachelor's degree,junior account manager,5,55000
+master's degree,senior software developer,9,110000
+master's degree,director of human capital,21,180000
+bachelor's degree,junior advertising coordinator,3,45000
+bachelor's degree,senior sales manager,16,130000
+master's degree,junior ux designer,1.5,45000
+bachelor's degree,senior accountant,7,90000
+phd,senior marketing director,17,160000
+bachelor's degree,junior hr generalist,4,50000
+bachelor's degree,senior operations manager,10,120000
+master's degree,director of finance,20,170000
+master's degree,senior it consultant,9,110000
+phd,senior product designer,15,150000
+bachelor's degree,junior business development associate,2,40000
+bachelor's degree,senior marketing analyst,8,85000
+bachelor's degree,senior software engineer,14,130000
+master's degree,senior financial advisor,6,100000
+bachelor's degree,senior project coordinator,9,95000
+phd,director of operations,22,180000
+bachelor's degree,junior business operations analyst,1.5,35000
+bachelor's degree,senior sales representative,12,100000
+master's degree,director of marketing,19,170000
+bachelor's degree,junior social media specialist,3,45000
+bachelor's degree,senior product development manager,7,100000
+master's degree,senior human resources manager,13,140000
+bachelor's degree,junior financial analyst,2,40000
+bachelor's degree,senior marketing manager,11,105000
+phd,senior data scientist,18,160000
+bachelor's degree,junior operations manager,5,70000
+master's degree,senior software architect,9,120000
+master's degree,director of human resources,21,190000
+bachelor's degree,junior marketing specialist,3,45000
+bachelor's degree,senior project manager,15,120000
+master's degree,junior research scientist,1.5,50000
+bachelor's degree,senior operations analyst,8,85000
+phd,senior marketing manager,13,140000
+bachelor's degree,junior sales representative,3,45000
+bachelor's degree,senior financial analyst,9,100000
+master's degree,senior software developer,16,140000
+bachelor's degree,junior operations analyst,5,70000
+bachelor's degree,senior marketing specialist,10,120000
+phd,senior hr manager,18,160000
+bachelor's degree,junior business analyst,1.5,40000
+bachelor's degree,senior product manager,10,120000
+phd,senior data analyst,19,150000
+bachelor's degree,junior marketing analyst,6,70000
+bachelor's degree,senior operations manager,8,95000
+master's degree,director of marketing,21,180000
+bachelor's degree,junior financial analyst,3,50000
+bachelor's degree,senior project coordinator,11,95000
+bachelor's degree,junior business operations analyst,1.5,350
+bachelor's degree,senior financial manager,10,120000
+bachelor's degree,junior marketing coordinator,3,50000
+bachelor's degree,senior operations manager,12,110000
+bachelor's degree,junior sales representative,1.5,40000
+bachelor's degree,senior marketing specialist,8,95000
+master's degree,senior hr specialist,15,140000
+bachelor's degree,junior operations manager,4,60000
+bachelor's degree,senior marketing coordinator,9,110000
+phd,senior data engineer,16,150000
+bachelor's degree,junior marketing manager,4,60000
+bachelor's degree,senior financial analyst,8,90000
+master's degree,director of marketing,20,180000
+bachelor's degree,senior project manager,9,120000
+phd,senior data analyst,17,160000
+bachelor's degree,junior financial analyst,5,70000
+bachelor's degree,senior product manager,8,95000
+master's degree,director of operations,21,180000
+bachelor's degree,junior operations analyst,3,50000
+bachelor's degree,senior financial manager,9,100000
+bachelor's degree,junior business analyst,4,60000
+bachelor's degree,senior software engineer,13,130000
+bachelor's degree,junior product manager,4,65000
+bachelor's degree,senior business analyst,10,110000
+phd,director of operations,21,180000
+bachelor's degree,junior marketing specialist,2,40000
+bachelor's degree,senior business development manager,7,90000
+master's degree,senior hr manager,14,140000
+bachelor's degree,junior financial analyst,4,60000
+bachelor's degree,senior marketing manager,12,130000
+phd,senior data scientist,16,160000
+bachelor's degree,junior operations coordinator,2,40000
+bachelor's degree,senior marketing analyst,9,100000
+master's degree,director of hr,20,180000
+bachelor's degree,junior project manager,3,55000
+bachelor's degree,senior operations coordinator,9,120000
+bachelor's degree,junior marketing manager,5,70000
+bachelor's degree,senior business analyst,8,95000
+bachelor's degree,senior project manager,12,120000
+master's degree,senior financial advisor,6,80000
+bachelor's degree,junior hr coordinator,2,40000
+bachelor's degree,senior business development manager,10,120000
+master's degree,senior marketing manager,16,160000
+bachelor's degree,junior financial advisor,4,65000
+bachelor's degree,senior project manager,12,130000
+phd,director of engineering,20,180000
+bachelor's degree,junior marketing analyst,2,40000
+bachelor's degree,senior operations manager,9,100000
+phd,senior data scientist,15,150000
+bachelor's degree,junior marketing coordinator,3,55000
+bachelor's degree,junior business development associate,3,50000
+bachelor's degree,senior financial analyst,12,130000
+phd,senior ux designer,16,160000
+bachelor's degree,junior product manager,4,60000
+bachelor's degree,senior marketing manager,8,95000
+master's degree,director of operations,19,170000
+bachelor's degree,junior project manager,2,40000
+bachelor's degree,senior operations coordinator,7,90000
+phd,senior business analyst,15,150000
+bachelor's degree,junior marketing specialist,5,70000
+bachelor's degree,senior financial manager,8,90000
+master's degree,director of marketing,18,170000
+bachelor's degree,senior product manager,14,150000
+phd,senior data engineer,16,160000
+master's degree,director of engineering,19,180000
+bachelor's degree,junior operations manager,1,35000
+bachelor's degree,senior business development manager,8,110000
+master's degree,data scientist,6,160000
+bachelor's degree,software engineer,3,125000
+master's degree,product manager,2,120000
+bachelor's degree,data analyst,2,110000
+phd,data scientist,5,180000
+bachelor's degree,software engineer,4,140000
+bachelor's degree,product manager,7,170000
+master's degree,data analyst,1,100000
+phd,data scientist,8,190000
+bachelor's degree,software engineer,6,155000
+master's degree,product manager,3,130000
+bachelor's degree,data analyst,5,145000
+phd,data scientist,2,115000
+bachelor's degree,product manager,9,185000
+bachelor's degree,data analyst,3,130000
+master's degree,data scientist,6,180000
+bachelor's degree,software engineer,8,190000
+bachelor's degree,product manager,4,150000
+bachelor's degree,data analyst,1,90000
+master's degree,data scientist,9,195000
+bachelor's degree,software engineer,5,160000
+master's degree,product manager,11,198000
+phd,data scientist,7,185000
+master's degree,product manager,12,196000
+bachelor's degree,data analyst,1,95000
+phd,data scientist,10,193000
+bachelor's degree,software engineer,6,175000
+bachelor's degree,product manager,5,160000
+bachelor's degree,data analyst,9,195000
+bachelor's degree,data analyst,5,160000
+phd,data scientist,9,195000
+bachelor's degree,data analyst,2,125000
+master's degree,data scientist,6,175000
+bachelor's degree,software engineer,6,170000
+bachelor's degree,data analyst,3,135000
+bachelor's degree,data analyst,2,115000
+master's degree,data scientist,4,150000
+bachelor's degree,product manager,3,125000
+master's degree,data scientist,7,180000
+master's degree,product manager,10,195000
+phd,data scientist,6,170000
+master's degree,product manager,11,196000
+bachelor's degree,data analyst,1,92000
+bachelor's degree,software engineer,5,165000
+bachelor's degree,data analyst,5,135000
+master's degree,data scientist,3,180000
+bachelor's degree,software engineer,12,195000
+bachelor's degree,product manager,8,165000
+master's degree,data scientist,15,198000
+bachelor's degree,software engineer,4,150000
+bachelor's degree,data analyst,9,162000
+master's degree,data scientist,6,175000
+bachelor's degree,software engineer,13,197000
+bachelor's degree,data analyst,7,142000
+master's degree,data scientist,4,182000
+bachelor's degree,software engineer,11,185000
+bachelor's degree,product manager,8,170000
+bachelor's degree,software engineer,4,160000
+bachelor's degree,data scientist,8,180000
+master's degree,data analyst,6,150000
+bachelor's degree,data analyst,5,140000
+bachelor's degree,data analyst,2,100000
+master's degree,product manager,11,190000
+bachelor's degree,data analyst,3,120000
+phd,data scientist,7,170000
+bachelor's degree,data analyst,9,190000
+bachelor's degree,software engineer,5,150000
+bachelor's degree,product manager,4,130000
+bachelor's degree,data analyst,2,95000
+master's degree,product manager,11,195000
+master's degree,data scientist,6,150000
+master's degree,data scientist,6,170000
+bachelor's degree,software engineer,8,180000
+master's degree,product manager,12,190000
+bachelor's degree,software engineer,7,180000
+bachelor's degree,data analyst,5,120000
+master's degree,data scientist,10,195000
+bachelor's degree,data analyst,3,100000
+bachelor's degree,product manager,8,190000
+master's degree,software engineer,6,170000
+bachelor's degree,data scientist,9,185000
+bachelor's degree,data analyst,7,130000
+bachelor's degree,product manager,12,190000
+phd,product manager,14,195000
+bachelor's degree,data analyst,3,110000
+master's degree,data scientist,9,185000
+bachelor's degree,software engineer,10,190000
+master's degree,data scientist,6,155000
+bachelor's degree,software engineer,12,195000
+bachelor's degree,data analyst,2,90000
+bachelor's degree,product manager,8,185000
+bachelor's degree,data analyst,6,120000
+bachelor's degree,software engineer,9,180000
+bachelor's degree,data analyst,5,125000
+bachelor's degree,senior software engineer,7,175000
+phd,software engineer manager,18,190000
+master's degree,back end developer,5,110000
+phd,senior project engineer,16,195000
+master's degree,full stack engineer,3,100000
+bachelor's degree,front end developer,1,60000
+master's degree,senior software engineer,8,155000
+phd,full stack engineer,12,175000
+master's degree,senior project engineer,13,180000
+bachelor's degree,back end developer,4,95000
+phd,software engineer manager,20,200000
+master's degree,senior software engineer,11,165000
+master's degree,senior project engineer,9,145000
+phd,software engineer manager,19,195000
+bachelor's degree,front end developer,2,75000
+master's degree,back end developer,3,90000
+master's degree,senior software engineer,9,155000
+bachelor's degree,full stack engineer,5,115000
+master's degree,senior software engineer,12,170000
+phd,software engineer manager,16,190000
+bachelor's degree,senior project engineer,4,115000
+phd,full stack engineer,14,180000
+phd,software engineer manager,18,195000
+master's degree,senior software engineer,7,140000
+phd,software engineer manager,19,200000
+master's degree,back end developer,2,70000
+master's degree,senior project engineer,11,170000
+phd,software engineer manager,14,185000
+master's degree,full stack engineer,8,140000
+phd,software engineer manager,15,185000
+phd,senior project engineer,15,185000
+phd,software engineer manager,15,180000
+phd,senior software engineer,14,175000
+bachelor's degree,front end developer,2,70000
+bachelor's degree,back end developer,1,60000
+phd,senior software engineer,14,170000
+master's degree,senior project engineer,11,165000
+bachelor's degree,full stack engineer,1,55000
+phd,software engineer manager,17,190000
+bachelor's degree,front end developer,5,105000
+master's degree,full stack engineer,6,130000
+phd,software engineer manager,16,185000
+master's degree,back end developer,1,60000
+phd,software engineer manager,17,195000
+master's degree,senior software engineer,8,150000
+phd,senior project engineer,13,180000
+master's degree,back end developer,6,125000
+bachelor's degree,full stack engineer,3,90000
+bachelor's degree,front end developer,3,80000
+bachelor's degree,back end developer,3,85000
+phd,senior project engineer,16,190000
+master's degree,software engineer manager,11,160000
+phd,software engineer manager,14,190000
+master's degree,full stack engineer,3,95000
+bachelor's degree,back end developer,1,55000
+phd,senior software engineer,13,185000
+master's degree,full stack engineer,5,120000
+phd,software engineer manager,16,195000
+phd,software engineer manager,14,175000
+master's degree,back end developer,2,75000
+phd,software engineer manager,17,200000
+master's degree,senior software engineer,12,160000
+phd,software engineer manager,12,175000
+phd,senior software engineer,15,180000
+bachelor's degree,full stack engineer,5,120000
+phd,senior project engineer,14,185000
+bachelor's degree,front end developer,1,55000
+master's degree,back end developer,6,130000
+phd,software engineer manager,14,180000
+master's degree,senior software engineer,9,145000
+master's degree,senior project engineer,12,170000
+master's degree,back end developer,10,155000
+master's degree,full stack engineer,6,125000
+master's degree,senior software engineer,11,170000
+phd,senior project engineer,14,175000
+master's degree,senior software engineer,10,155000
+master's degree,senior project engineer,6,125000
+master's degree,full stack engineer,4,110000
+master's degree,senior software engineer,9,150000
+master's degree,full stack engineer,7,140000
+phd,software engineer manager,13,180000
+master's degree,senior project engineer,12,165000
+phd,senior project engineer,13,185000
+phd,senior software engineer,12,170000
+phd,senior project engineer,12,170000
+phd,senior project engineer,12,165000
+bachelor's degree,front end developer,3,85000
+phd,software engineer manager,18,200000
+bachelor's degree,back end developer,2,65000
+master's degree,full stack engineer,6,120000
+master's degree,back end developer,2,65000
+master's degree,full stack engineer,7,130000
+phd,senior software engineer,12,160000
+master's degree,senior software engineer,8,140000
+master's degree,senior project engineer,7,135000
+bachelor's degree,front end developer,5,95000
+bachelor's degree,back end developer,2,75000
+phd,software engineer manager,18,210000
+master's degree,full stack engineer,7,135000
+phd,senior project engineer,11,165000
+bachelor's degree,back end developer,6,120000
+bachelor's degree,front end developer,7,120000
+bachelor's degree,full stack engineer,7,130000
+bachelor's degree,back end developer,2,70000
+master's degree,front end developer,1,55000
+phd,software engineer manager,11,165000
+master's degree,full stack engineer,5,105000
+master's degree,senior software engineer,11,160000
+bachelor's degree,front end developer,6,110000
+phd,senior project engineer,14,180000
+bachelor's degree,back end developer,8,140000
+bachelor's degree,full stack engineer,8,145000
+bachelor's degree,front end developer,6,115000
+master's degree,software engineer manager,13,170000
+bachelor's degree,back end developer,3,80000
+phd,senior project engineer,19,200000
+bachelor's degree,software engineer manager,11,155000
+phd,senior project engineer,14,190000
+master's degree,back end developer,8,140000
+master's degree,front end developer,4,90000
+phd,senior project engineer,18,195000
+bachelor's degree,full stack engineer,6,115000
+phd,senior project engineer,16,185000
+bachelor's degree,front end developer,2,65000
+master's degree,software engineer manager,12,160000
+bachelor's degree,back end developer,5,100000
+phd,senior project engineer,15,180000
+phd,senior project engineer,17,195000
+master's degree,back end developer,9,150000
+bachelor's degree,front end developer,1,550
+bachelor's degree,front end developer,4,90000
+master's degree,full stack engineer,6,115000
+bachelor's degree,software engineer manager,10,150000
+master's degree,front end developer,5,105000
+bachelor's degree,software engineer manager,8,135000
+master's degree,software engineer manager,10,150000
+master's degree,software engineer manager,8,130000
+bachelor's degree,software engineer manager,12,160000
+bachelor's degree,front end developer,2,55000
+master's degree,back end developer,7,120000
+bachelor's degree,full stack engineer,5,100000
+master's degree,front end developer,9,150000
+bachelor's degree,software engineer manager,11,170000
+phd,senior project engineer,19,210000
+bachelor's degree,full stack engineer,4,90000
+master's degree,software engineer manager,14,180000
+phd,software engineer manager,20,210000
+bachelor's degree,back end developer,6,95000
+master's degree,software engineer manager,11,170000
+bachelor's degree,software engineer,4,75000
+master's degree,data analyst,7,95000
+bachelor's degree,front end developer,1,50000
+phd,senior data scientist,15,180000
+bachelor's degree,software developer,3,65000
+master's degree,product manager,6,120000
+master's degree,software engineer,2,60000
+bachelor's degree,data scientist,10,150000
+bachelor's degree,software engineer,3,70000
+phd,director of data science,20,220000
+master's degree,data analyst,8,100000
+bachelor's degree,software developer,2,55000
+phd,senior data scientist,12,170000
+bachelor's degree,software engineer,5,90000
+bachelor's degree,front end developer,4,80000
+master's degree,product manager,14,180000
+bachelor's degree,software developer,2,60000
+master's degree,data analyst,9,120000
+phd,director of data science,18,210000
+master's degree,data scientist,9,140000
+bachelor's degree,software engineer,1,50000
+master's degree,product manager,7,110000
+bachelor's degree,data analyst,11,160000
+phd,director of data science,16,200000
+bachelor's degree,full stack engineer,8,122485
+phd,software engineer manager,12,169159
+master's degree,senior software engineer,21,187081
+high school,senior project engineer,31,166109
+master's degree,front end developer,5,78354
+bachelor's degree,back end developer,2,90249
+master's degree,senior software engineer,6,132720
+phd,software engineer manager,23,161568
+master's degree,front end developer,13,127346
+bachelor's degree,back end developer,19,120177
+high school,full stack engineer,2,69032
+master's degree,senior project engineer,8,101332
+phd,full stack engineer,30,121450
+bachelor's degree,senior project engineer,12,166375
+master's degree,senior software engineer,21,185119
+bachelor's degree,full stack engineer,10,149217
+master's degree,software engineer manager,21,166512
+master's degree,senior software engineer,28,186963
+bachelor's degree,back end developer,3,75072
+master's degree,full stack engineer,10,163398
+high school,senior project engineer,11,103947
+phd,software engineer manager,33,179180
+bachelor's degree,back end developer,23,175966
+master's degree,senior software engineer,27,190004
+master's degree,full stack engineer,10,152039
+master's degree,front end developer,5,76742
+phd,software engineer manager,33,191790
+bachelor's degree,senior software engineer,20,139398
+high school,back end developer,7,95845
+master's degree,full stack engineer,12,160976
+master's degree,senior project engineer,9,126753
+master's degree,full stack engineer,14,161393
+master's degree,senior software engineer,8,139817
+phd,software engineer manager,25,181714
+bachelor's degree,back end developer,10,114776
+master's degree,full stack engineer,6,105725
+high school,senior project engineer,1,52731
+master's degree,front end developer,8,106492
+bachelor's degree,full stack engineer,4,73895
+phd,software engineer manager,1,119836
+master's degree,senior software engineer,5,99747
+bachelor's degree,back end developer,25,168287
+master's degree,full stack engineer,7,115920
+master's degree,senior project engineer,11,128078
+bachelor's degree,front end developer,1,51265
+high school,senior software engineer,22,165919
+phd,software engineer manager,34,188651
+master's degree,back end developer,0,55538
+bachelor's degree,senior project engineer,28,193964
+master's degree,full stack engineer,4,104702
+phd,software engineer manager,19,172955
+master's degree,senior software engineer,16,138032
+bachelor's degree,back end developer,4,82683
+master's degree,full stack engineer,17,155414
+high school,senior project engineer,25,154207
+master's degree,front end developer,8,107895
+bachelor's degree,senior software engineer,18,148446
+master's degree,full stack engineer,4,102859
+phd,software engineer manager,13,138662
+bachelor's degree,senior project engineer,23,181699
+master's degree,full stack engineer,33,188232
+high school,back end developer,0,51832
+phd,software engineer manager,28,188484
+master's degree,senior software engineer,16,138286
+bachelor's degree,full stack engineer,22,181132
+master's degree,back end developer,4,73938
+bachelor's degree,senior project engineer,14,119224
+master's degree,full stack engineer,6,101186
+master's degree,software engineer manager,14,142360
+bachelor's degree,senior project engineer,20,151315
+phd,full stack engineer,23,181021
+master's degree,senior software engineer,15,134641
+bachelor's degree,front end developer,23,173851
+high school,back end developer,8,104127
+master's degree,senior project engineer,25,178859
+phd,full stack engineer,5,98568
+bachelor's degree,software engineer manager,9,104661
+master's degree,senior software engineer,13,134858
+bachelor's degree,back end developer,10,94502
+high school,front end developer,2,62852
+bachelor's degree,front end developer,14,139095
+master's degree,senior project engineer,5,106278
+master's degree,full stack engineer,4,90452
+phd,software engineer manager,23,168304
+bachelor's degree,back end developer,10,126593
+master's degree,senior software engineer,19,152203
+phd,software engineer manager,30,183138
+master's degree,full stack engineer,9,130275
+bachelor's degree,senior project engineer,29,191915
+high school,back end developer,2,62807
+master's degree,senior software engineer,21,174305
+bachelor's degree,full stack engineer,9,133326
+master's degree,front end developer,4,75656
+phd,software engineer manager,19,155944
+master's degree,full stack engineer,11,137775
+bachelor's degree,senior project engineer,0,51831
+master's degree,software engineer manager,22,182237
+master's degree,full stack engineer,10,151901
+bachelor's degree,back end developer,8,100052
+high school,senior software engineer,29,158254
+master's degree,full stack engineer,20,167207
+master's degree,senior project engineer,10,112439
+phd,software engineer manager,29,194214
+bachelor's degree,full stack engineer,5,84407
+master's degree,senior software engineer,13,139413
+bachelor's degree,senior project engineer,20,143084
+master's degree,full stack engineer,25,192344
+phd,software engineer manager,1,106132
+master's degree,senior software engineer,26,184816
+bachelor's degree,back end developer,19,150248
+master's degree,full stack engineer,15,170995
+bachelor's degree,senior project engineer,6,88035
+master's degree,front end developer,10,119419
+phd,software engineer manager,21,173582
+master's degree,senior software engineer,23,174436
+bachelor's degree,back end developer,4,71699
+master's degree,full stack engineer,14,163558
+bachelor's degree,senior project engineer,24,166828
+phd,software engineer manager,15,144496
+master's degree,senior software engineer,31,193746
+master's degree,full stack engineer,8,122581
+high school,back end developer,4,79767
+bachelor's degree,senior project engineer,25,177177
+master's degree,full stack engineer,4,89843
+master's degree,senior software engineer,6,113563
+bachelor's degree,front end developer,10,128712
+phd,software engineer manager,18,161621
+master's degree,senior project engineer,8,121454
+bachelor's degree,full stack engineer,25,179987
+master's degree,front end developer,3,72649
+phd,software engineer manager,0,52612
+master's degree,senior software engineer,24,184006
+bachelor's degree,back end developer,12,131960
+master's degree,full stack engineer,5,102465
+master's degree,software engineer manager,16,149748
+bachelor's degree,senior project engineer,22,171036
+master's degree,full stack engineer,13,146351
+phd,software engineer manager,26,185462
+bachelor's degree,senior software engineer,7,107718
+master's degree,full stack engineer,4,90944
+master's degree,senior project engineer,5,100425
+bachelor's degree,back end developer,2,63901
+master's degree,senior software engineer,22,181902
+master's degree,full stack engineer,9,136533
+bachelor's degree,front end developer,11,136285
+phd,software engineer manager,31,191818
+master's degree,full stack engineer,19,176643
+bachelor's degree,senior project engineer,4,70022
+master's degree,front end developer,6,99363
+master's degree,senior software engineer,19,152944
+bachelor's degree,back end developer,10,123386
+master's degree,full stack engineer,21,168906
+bachelor's degree,senior project engineer,30,183020
+high school,front end developer,1,47898
+master's degree,senior software engineer,14,135853
+bachelor's degree,full stack engineer,17,149198
+phd,software engineer manager,6,106662
+master's degree,senior software engineer,28,186610
+bachelor's degree,senior project engineer,6,89995
+master's degree,full stack engineer,4,85825
+phd,software engineer manager,13,143814
+master's degree,front end developer,24,174726
+bachelor's degree,senior software engineer,20,150534
+bachelor's degree,back end developer,4,68732
+master's degree,full stack engineer,21,187951
+bachelor's degree,senior project engineer,13,137336
+phd,software engineer manager,26,191159
+master's degree,full stack engineer,5,102868
+bachelor's degree,senior software engineer,20,154281
+master's degree,back end developer,8,111535
+master's degree,senior project engineer,6,107906
+bachelor's degree,full stack engineer,13,143885
+phd,software engineer manager,27,180958
+master's degree,senior software engineer,6,108607
+bachelor's degree,back end developer,24,178284
+master's degree,front end developer,4,75969
+master's degree,senior project engineer,15,143705
+phd,software engineer manager,31,197354
+bachelor's degree,senior software engineer,22,174324
+master's degree,full stack engineer,8,123781
+phd,software engineer manager,12,141735
+master's degree,senior project engineer,28,187120
+bachelor's degree,back end developer,1,61095
+master's degree,full stack engineer,22,179045
+master's degree,senior software engineer,10,130355
+bachelor's degree,front end developer,7,103282
+phd,software engineer manager,18,157872
+master's degree,senior project engineer,10,117314
+bachelor's degree,senior software engineer,30,186321
+master's degree,full stack engineer,11,129686
+high school,back end developer,3,68611
+master's degree,senior project engineer,25,177913
+master's degree,full stack engineer,3,68472
+master's degree,senior software engineer,6,113065
+bachelor's degree,front end developer,9,125091
+phd,software engineer manager,23,172925
+master's degree,senior project engineer,9,126916
+bachelor's degree,full stack engineer,27,183417
+master's degree,front end developer,4,76898
+phd,software engineer manager,1,579
+bachelor's degree,software engineer,2,65000
+master's degree,data analyst,8,120000
+bachelor's degree,product manager,4,90000
+phd,data scientist,15,190000
+master's degree,software engineer,9,140000
+bachelor's degree,software developer,3,75000
+master's degree,data scientist,11,160000
+bachelor's degree,product manager,8,130000
+bachelor's degree,software developer,5,80000
+master's degree,data scientist,7,130000
+bachelor's degree,software engineer,3,65000
+phd,senior data scientist,13,170000
+master's degree,product manager,6,110000
+bachelor's degree,front end developer,2,50000
+master's degree,product manager,10,160000
+bachelor's degree,software engineer,4,70000
+phd,senior data scientist,16,190000
+bachelor's degree,software developer,1,45000
+master's degree,product manager,7,120000
+bachelor's degree,data analyst,11,150000
+bachelor's degree,full stack engineer,6,103579
+master's degree,software engineer manager,19,163780
+bachelor's degree,front end developer,12,137878
+master's degree,senior project engineer,4,92438
+master's degree,full stack engineer,5,84181
+phd,software engineer manager,21,174821
+bachelor's degree,back end developer,10,126520
+master's degree,senior software engineer,18,152168
+phd,software engineer manager,29,190543
+master's degree,full stack engineer,9,131547
+bachelor's degree,senior project engineer,28,192292
+high school,back end developer,1,52807
+master's degree,senior software engineer,20,174938
+bachelor's degree,full stack engineer,8,124071
+master's degree,front end developer,3,73640
+phd,software engineer manager,19,156486
+master's degree,full stack engineer,11,138859
+bachelor's degree,senior project engineer,0,52831
+master's degree,software engineer manager,23,182392
+master's degree,full stack engineer,11,151078
+bachelor's degree,back end developer,8,100679
+high school,senior software engineer,29,158966
+master's degree,full stack engineer,20,167924
+master's degree,senior project engineer,10,113334
+phd,software engineer manager,29,194778
+bachelor's degree,full stack engineer,4,77606
+master's degree,senior software engineer,13,140010
+bachelor's degree,senior project engineer,20,142421
+master's degree,full stack engineer,24,192756
+phd,software engineer manager,1,106686
+master's degree,senior software engineer,27,186794
+bachelor's degree,back end developer,19,150729
+master's degree,full stack engineer,15,171652
+bachelor's degree,senior project engineer,6,88552
+master's degree,front end developer,9,119918
+phd,software engineer manager,21,174985
+master's degree,senior software engineer,23,174336
+bachelor's degree,back end developer,4,72389
+master's degree,full stack engineer,14,163978
+bachelor's degree,senior project engineer,25,166958
+phd,software engineer manager,15,145052
+master's degree,senior software engineer,32,195270
+master's degree,full stack engineer,8,122970
+high school,back end developer,4,80247
+bachelor's degree,senior project engineer,25,177862
+master's degree,full stack engineer,4,91062
+master's degree,senior software engineer,6,114290
+bachelor's degree,front end developer,10,128999
+phd,software engineer manager,18,162454
+master's degree,senior project engineer,8,122354
+bachelor's degree,full stack engineer,25,179756
+master's degree,front end developer,3,73218
+master's degree,senior software engineer,24,184480
+bachelor's degree,back end developer,12,132442
+master's degree,full stack engineer,5,102828
+master's degree,software engineer manager,16,150301
+bachelor's degree,senior project engineer,22,171468
+master's degree,full stack engineer,13,147326
+phd,software engineer manager,26,185982
+bachelor's degree,senior software engineer,7,108267
+master's degree,full stack engineer,4,91397
+master's degree,senior project engineer,5,100867
+bachelor's degree,back end developer,2,64182
+master's degree,senior software engineer,22,182506
+master's degree,full stack engineer,9,136986
+bachelor's degree,front end developer,11,136662
+phd,software engineer manager,32,191510
+master's degree,full stack engineer,19,177347
+bachelor's degree,senior project engineer,3,70397
+master's degree,software engineer manager,9,146075
+bachelor's degree,back end developer,18,155795
+master's degree,full stack engineer,9,132638
+phd,software engineer manager,22,178684
+bachelor's degree,senior software engineer,7,106218
+master's degree,full stack engineer,28,191239
+master's degree,front end developer,2,65840
+phd,software engineer manager,0,52779
+master's degree,senior software engineer,23,185038
+bachelor's degree,back end developer,14,136449
+master's degree,full stack engineer,6,110707
+master's degree,software engineer manager,17,151670
+bachelor's degree,senior project engineer,21,167015
+master's degree,full stack engineer,13,146508
+phd,software engineer manager,27,190596
+bachelor's degree,senior software engineer,6,104378
+master's degree,full stack engineer,3,70216
+master's degree,senior project engineer,5,101733
+bachelor's degree,back end developer,1,55935
+master's degree,senior software engineer,21,180367
+master's degree,full stack engineer,9,135596
+bachelor's degree,front end developer,11,136062
+phd,software engineer manager,32,191267
+master's degree,full stack engineer,3,91397
+bachelor's degree,senior project engineer,4,82944
+phd,software engineer manager,23,188288
+master's degree,senior software engineer,14,141090
+bachelor's degree,full stack engineer,19,152726
+master's degree,back end developer,9,124141
+bachelor's degree,front end developer,3,67556
+master's degree,senior project engineer,22,182768
+phd,software engineer manager,15,148727
+bachelor's degree,full stack engineer,6,91903
+master's degree,senior software engineer,14,147708
+bachelor's degree,senior project engineer,21,163209
+master's degree,full stack engineer,8,120288
+phd,software engineer manager,21,170226
+master's degree,senior software engineer,11,134979
+bachelor's degree,back end developer,16,137489
+master's degree,full stack engineer,4,83577
+bachelor's degree,front end developer,9,117904
+master's degree,senior project engineer,11,134482
+phd,software engineer manager,30,184660
+bachelor's degree,senior software engineer,5,100151
+master's degree,full stack engineer,3,88678
+phd,senior project engineer,21,181285
+master's degree,software engineer manager,16,154990
+bachelor's degree,full stack engineer,7,108204
+master's degree,senior software engineer,19,175684
+bachelor's degree,back end developer,5,77766
+phd,software engineer manager,24,192211
+master's degree,full stack engineer,13,144647
+bachelor's degree,senior project engineer,20,162231
+master's degree,front end developer,9,121120
+bachelor's degree,full stack engineer,4,79652
+master's degree,senior software engineer,21,177002
+master's degree,back end developer,5,87584
+bachelor's degree,senior project engineer,13,131860
+phd,software engineer manager,28,182013
+master's degree,full stack engineer,7,108799
+bachelor's degree,senior software engineer,13,135378
+master's degree,software engineer manager,22,183530
+bachelor's degree,back end developer,18,150901
+master's degree,full stack engineer,4,82697
+phd,senior software engineer,26,194638
+master's degree,senior project engineer,12,130356
+bachelor's degree,full stack engineer,18,152560
+master's degree,front end developer,9,121432
+bachelor's degree,back end developer,2,63789
+master's degree,senior software engineer,23,183690
+phd,software engineer manager,16,151310
+bachelor's degree,full stack engineer,6,100358
+master's degree,senior software engineer,15,148437
+bachelor's degree,senior project engineer,22,168691
+bachelor's degree,software developer,1,50000
+master's degree,product manager,5,100000
+bachelor's degree,software engineer,2,60000
+master's degree,data analyst,6,90000
+bachelor's degree,front end developer,3,70000
+phd,director of data science,12,170000
+master's degree,data scientist,8,130000
+bachelor's degree,software engineer,4,80000
+phd,senior data scientist,16,200000
+master's degree,web developer,5,80000
+bachelor's degree,junior hr coordinator,4,60000
+bachelor's degree,junior web developer,2,50000
+master's degree,senior human resources manager,18,160000
+phd,director of hr,9,120000
+high school,junior hr generalist,0,40000
+bachelor's degree,web developer,10,100000
+master's degree,senior hr generalist,4,75000
+phd,director of hr,16,140000
+bachelor's degree,junior hr coordinator,2,50000
+master's degree,senior human resources manager,11,110000
+bachelor's degree,web developer,1,45000
+high school,junior web developer,4,55000
+phd,director of hr,13,130000
+bachelor's degree,junior hr generalist,2,50000
+master's degree,senior hr generalist,7,80000
+bachelor's degree,junior web developer,2,45000
+high school,junior hr generalist,1,32000
+phd,senior human resources manager,12,120000
+master's degree,web developer,4,65000
+bachelor's degree,senior hr generalist,8,95000
+master's degree,director of hr,5,80000
+high school,junior hr coordinator,3,38000
+master's degree,web developer,10,110000
+master's degree,senior hr generalist,7,89000
+bachelor's degree,web developer,5,70000
+phd,director of hr,15,150000
+bachelor's degree,junior web developer,1,40000
+master's degree,senior human resources manager,9,105000
+phd,director of hr,14,140000
+bachelor's degree,junior web developer,3,50000
+high school,junior hr generalist,2,35000
+master's degree,senior hr generalist,11,115000
+master's degree,web developer,5,70000
+bachelor's degree,web developer,6,80000
+high school,junior hr coordinator,1,30000
+phd,director of hr,13,135000
+master's degree,senior hr generalist,10,105000
+master's degree,web developer,3,55000
+master's degree,director of hr,14,140000
+bachelor's degree,web developer,3,55000
+phd,senior human resources manager,11,115000
+master's degree,senior hr generalist,4,70000
+master's degree,director of hr,13,135000
+master's degree,web developer,7,85000
+phd,senior human resources manager,15,150000
+bachelor's degree,web developer,4,65000
+master's degree,junior hr generalist,1,32000
+phd,director of hr,12,120000
+master's degree,senior hr generalist,9,95000
+master's degree,senior human resources manager,6,80000
+master's degree,senior hr generalist,8,95000
+master's degree,director of hr,12,120000
+master's degree,senior human resources manager,4,70000
+high school,junior hr coordinator,2,33000
+phd,director of hr,11,115000
+bachelor's degree,web developer,1,40000
+bachelor's degree,software engineer,3,60000
+master's degree,marketing manager,9,100000
+phd,data scientist,15,150000
+bachelor's degree,human resources coordinator,4,55000
+high school,junior sales associate,1,30000
+master's degree,software developer,5,70000
+bachelor's degree,operations manager,8,90000
+master's degree,marketing coordinator,2,40000
+phd,data scientist,12,130000
+bachelor's degree,human resources manager,6,75000
+high school,junior sales associate,2,35000
+master's degree,marketing manager,10,110000
+bachelor's degree,software engineer,4,65000
+phd,data scientist,18,180000
+bachelor's degree,junior software developer,1,35000
+master's degree,human resources manager,11,120000
+bachelor's degree,operations manager,6,75000
+phd,data scientist,16,160000
+bachelor's degree,software developer,3,60000
+master's degree,marketing coordinator,8,85000
+bachelor's degree,operations manager,5,70000
+master's degree,human resources coordinator,3,50000
+phd,data scientist,13,140000
+bachelor's degree,software engineer,2,55000
+master's degree,marketing manager,7,90000
+bachelor's degree,human resources coordinator,4,60000
+high school,junior sales associate,1,25000
+bachelor's degree,operations manager,8,100000
+bachelor's degree,marketing coordinator,3,45000
+phd,data scientist,14,140000
+high school,junior sales associate,2,30000
+master's degree,marketing manager,11,120000
+phd,data scientist,19,190000
+master's degree,human resources manager,12,130000
+bachelor's degree,operations manager,7,85000
+master's degree,marketing coordinator,9,100000
+bachelor's degree,software engineer,5,80000
+master's degree,marketing manager,3,60000
+bachelor's degree,human resources coordinator,2,45000
+master's degree,software developer,7,90000
+bachelor's degree,operations manager,18,170000
+bachelor's degree,marketing coordinator,2,40000
+bachelor's degree,human resources manager,8,95000
+phd,data scientist,22,220000
+bachelor's degree,junior software developer,2,35000
+master's degree,human resources manager,13,140000
+bachelor's degree,operations manager,9,110000
+master's degree,marketing coordinator,11,120000
+bachelor's degree,operations manager,6,90000
+master's degree,human resources coordinator,2,45000
+bachelor's degree,software engineer,6,85000
+master's degree,marketing manager,4,62000
+phd,data scientist,13,138000
+bachelor's degree,human resources coordinator,2,47000
+high school,junior sales associate,1,26000
+master's degree,software developer,8,95000
+bachelor's degree,operations manager,19,174000
+bachelor's degree,marketing coordinator,2,41000
+phd,data scientist,16,162000
+bachelor's degree,human resources manager,9,99000
+master's degree,marketing manager,11,117000
+bachelor's degree,software engineer,5,75000
+phd,data scientist,23,225000
+bachelor's degree,junior software developer,2,36000
+master's degree,human resources manager,14,146000
+bachelor's degree,operations manager,10,113000
+phd,data scientist,17,168000
+bachelor's degree,software developer,6,85000
+master's degree,marketing coordinator,12,122000
+bachelor's degree,operations manager,7,96000
+master's degree,human resources coordinator,3,49000
+master's degree,marketing manager,5,68000
+bachelor's degree,operations manager,13,127000
+phd,data scientist,15,155000
+bachelor's degree,human resources manager,8,92000
+master's degree,marketing manager,12,125000
+bachelor's degree,software engineer,4,71000
+phd,data scientist,24,240000
+master's degree,human resources manager,15,152000
+bachelor's degree,operations manager,11,119000
+master's degree,marketing coordinator,13,131000
+bachelor's degree,operations manager,8,101000
+phd,data scientist,18,182000
+bachelor's degree,software developer,3,62000
+master's degree,marketing manager,16,137000
+phd,data scientist,9,112000
+bachelor's degree,operations manager,7,91000
+phd,data scientist,17,179000
+bachelor's degree,software engineer,5,74000
+master's degree,marketing manager,23,228000
+bachelor's degree,junior software developer,2,37000
+phd,data scientist,19,193000
+master's degree,marketing manager,20,204000
+bachelor's degree,software developer,3,61000
+phd,data scientist,15,157000
+master's degree,human resources manager,8,92000
+bachelor's degree,software engineer,1,52000
+bachelor's degree,marketing coordinator,4,58000
+phd,data scientist,22,219000
+master's degree,marketing manager,6,77000
+bachelor's degree,operations manager,8,104000
+phd,data scientist,18,183000
+master's degree,director of hr,6,95000
+phd,senior human resources manager,10,110000
+high school,web developer,1,35000
+bachelor's degree,junior hr generalist,5,60000
+master's degree,web developer,2,50000
+bachelor's degree,junior hr generalist,1,32000
+bachelor's degree,junior hr coordinator,1,35000
+phd,senior human resources manager,14,130000
+master's degree,director of hr,9,95000
+high school,juniour hr generalist,2,43000
+bachelor's degree,junior hr coordinator,4,50000
+bachelor's degree,web developer,3,60000
+master's degree,senior hr generalist,8,80000
+master's degree,junior web developer,2,48000
+phd,director of hr,13,125000
+bachelor's degree,web developer,7,85000
+bachelor's degree,junior hr generalist,2,42000
+high school,juniour hr coordinator,1,32000
+master's degree,web developer,6,80000
+phd,senior human resources manager,7,90000
+master's degree,senior hr generalist,12,110000
+master's degree,director of hr,10,105000
+bachelor's degree,junior hr generalist,3,50000
+phd,director of hr,8,95000
+high school,junior hr generalist,2,40000
+master's degree,senior hr generalist,2,55000
+master's degree,director of hr,7,90000
+bachelor's degree,web developer,2,50000
+high school,web developer,2,45000
+bachelor's degree,junior hr generalist,7,65000
+bachelor's degree,junior hr coordinator,3,45000
+phd,director of hr,9,95000
+bachelor's degree,junior hr coordinator,2,38000
+master's degree,senior human resources manager,13,125000
+master's degree,web developer,8,90000
+master's degree,web developer,3,60000
+bachelor's degree,web developer,1,35000
+master's degree,junior hr generalist,2,42000
+master's degree,senior hr generalist,11,100000
+bachelor's degree,junior hr coordinator,1,32000
+phd,director of hr,14,130000
+high school,junior web developer,2,43000
+high school,junior hr coordinator,1,32000
+bachelor's degree,junior hr coordinator,4,500
+bachelor's degree,junior software engineer,1,45000
+master's degree,senior data scientist,8,120000
+bachelor's degree,marketing coordinator,3,55000
+bachelor's degree,junior marketing manager,5,70000
+phd,senior research scientist,12,140000
+master's degree,senior software engineer,7,100000
+bachelor's degree,junior data analyst,2,50000
+bachelor's degree,junior marketing manager,3,55000
+phd,senior research scientist,10,130000
+bachelor's degree,junior software engineer,2,48000
+master's degree,senior data scientist,9,125000
+bachelor's degree,marketing coordinator,4,57000
+bachelor's degree,junior marketing manager,6,72000
+phd,senior research scientist,13,145000
+high school,junior sales associate,2,31000
+master's degree,senior software engineer,8,105000
+bachelor's degree,junior data analyst,3,52000
+bachelor's degree,junior marketing manager,4,57000
+phd,senior research scientist,11,135000
+bachelor's degree,senior product marketing manager,5,85000
+master's degree,marketing manager,7,110000
+phd,director of marketing,12,170000
+bachelor's degree,sales director,9,140000
+high school,sales associate,1,30000
+bachelor's degree,digital marketing manager,6,95000
+master's degree,content marketing manager,4,80000
+phd,sales director,10,155000
+high school,junior sales representative,0,25000
+bachelor's degree,sales manager,11,160000
+bachelor's degree,marketing manager,3,65000
+master's degree,financial manager,7,120000
+phd,director of marketing,6,105000
+high school,sales associate,0,25000
+bachelor's degree,financial manager,21,250000
+master's degree,content marketing manager,8,120000
+bachelor's degree,digital marketing manager,4,80000
+bachelor's degree,senior product marketing manager,6,100000
+high school,sales representative,3,50000
+bachelor's degree,marketing manager,9,140000
+bachelor's degree,marketing manager,2,55000
+bachelor's degree,software engineer,1,60000
+master's degree,marketing manager,12,150000
+bachelor's degree,financial analyst,4,80000
+phd,research scientist,8,120000
+bachelor's degree,project manager,10,130000
+bachelor's degree,graphic designer,2,50000
+master's degree,senior software engineer,18,180000
+bachelor's degree,digital marketing specialist,3,60000
+bachelor's degree,marketing manager,7,110000
+master's degree,financial analyst,6,100000
+bachelor's degree,social media manager,3,55000
+phd,data scientist,9,140000
+high school,receptionist,0,25000
+bachelor's degree,product manager,12,150000
+master's degree,marketing director,14,170000
+bachelor's degree,junior software engineer,1,55000
+bachelor's degree,marketing coordinator,4,65000
+bachelor's degree,product designer,3,60000
+phd,research director,10,150000
+bachelor's degree,marketing analyst,2,50000
+bachelor's degree,software engineer,3,85000
+master's degree,marketing director,11,160000
+bachelor's degree,financial analyst,1,55000
+phd,data scientist,5,100000
+bachelor's degree,project manager,8,120000
+master's degree,senior software engineer,19,185000
+bachelor's degree,digital marketing specialist,4,65000
+bachelor's degree,marketing manager,9,130000
+phd,research scientist,10,150000
+bachelor's degree,product manager,13,160000
+master's degree,marketing manager,14,170000
+phd,research director,11,160000
+master's degree,financial manager,8,120000
+bachelor's degree,social media man,7,100000
+bachelor's degree,software engineer,7,120000
+master's degree,marketing manager,9,130000
+high school,customer service representative,3,35000
+phd,research scientist,13,160000
+bachelor's degree,marketing coordinator,2,50000
+bachelor's degree,project manager,6,100000
+master's degree,financial analyst,4,80000
+bachelor's degree,sales manager,5,90000
+phd,research director,11,170000
+bachelor's degree,marketing analyst,3,60000
+bachelor's degree,product manager,7,120000
+master's degree,marketing director,14,180000
+bachelor's degree,financial manager,16,200000
+bachelor's degree,product designer,2,50000
+phd,data scientist,8,140000
+bachelor's degree,marketing analyst,4,70000
+bachelor's degree,software engineer,3,80000
+phd,research scientist,12,160000
+bachelor's degree,product manager,1,55000
+bachelor's degree,marketing coordinator,5,85000
+bachelor's degree,marketing coordinator,3,60000
+master's degree,software engineer,9,120000
+bachelor's degree,graphic designer,1,45000
+bachelor's degree,product manager,5,80000
+phd,research scientist,11,150000
+bachelor's degree,marketing manager,7,100000
+master's degree,financial analyst,4,90000
+bachelor's degree,marketing analyst,0,40000
+bachelor's degree,project manager,6,110000
+phd,research director,12,170000
+bachelor's degree,software engineer,3,75000
+master's degree,marketing manager,8,120000
+high school,customer service representative,1,30000
+phd,research scientist,13,180000
+bachelor's degree,financial manager,15,200000
+bachelor's degree,product designer,1,50000
+bachelor's degree,marketing analyst,3,65000
+bachelor's degree,product manager,7,110000
+high school,delivery driver,0,28000
+master's degree,marketing director,14,190000
+bachelor's degree,financial manager,16,210000
+bachelor's degree,product designer,2,55000
+phd,research scientist,12,170000
+bachelor's degree,product manager,1,60000
+bachelor's degree,marketing coordinator,5,90000
+bachelor's degree,product manager,2,65000
+phd,data scientist,6,100000
+bachelor's degree,financial analyst,11,150000
+phd,marketing coordinator,7,120000
+master's degree,software engineer,8,120000
+master's degree,software engineer,9,125000
+bachelor's degree,product manager,3,70000
+phd,data scientist,7,110000
+bachelor's degree,financial analyst,12,160000
+bachelor's degree,marketing analyst,4,75000
+bachelor's degree,product manager,5,85000
+phd,research scientist,11,155000
+bachelor's degree,marketing manager,8,115000
+master's degree,financial analyst,5,95000
+bachelor's degree,project manager,6,115000
+phd,research director,12,175000
+master's degree,marketing manager,9,135000
+phd,research scientist,13,185000
+bachelor's degree,financial manager,15,210000
+bachelor's degree,product designer,1,45000
+phd,data scientist,9,145000
+bachelor's degree,marketing analyst,3,70000
+master's degree,marketing director,14,195000
+bachelor's degree,financial manager,16,215000
+bachelor's degree,marketing coordinator,5,95000
+master's degree,software engineer,2,75000
+phd,research scientist,14,185000
+bachelor's degree,marketing manager,7,120000
+bachelor's degree,graphic designer,3,60000
+master's degree,data scientist,10,145000
+master's degree,product manager,8,135000
+bachelor's degree,software engineer,2,70000
+bachelor's degree,sales associate,2,45000
+master's degree,sales manager,8,80000
+phd,marketing manager,7,90000
+high school,sales executive,1,35000
+bachelor's degree,financial manager,12,120000
+bachelor's degree,digital marketing manager,4,60000
+master's degree,content marketing manager,5,70000
+high school,sales representative,3,40000
+phd,senior product marketing manager,15,150000
+bachelor's degree,junior sales representative,2,35000
+master's degree,director of marketing,13,130000
+bachelor's degree,sales associate,1,35000
+phd,sales director,18,180000
+high school,financial manager,4,60000
+bachelor's degree,sales manager,6,75000
+master's degree,digital marketing manager,3,50000
+phd,marketing manager,10,100000
+high school,sales executive,2,40000
+bachelor's degree,content marketing manager,11,110000
+master's degree,sales representative,4,55000
+phd,senior product marketing manager,17,170000
+bachelor's degree,junior sales representative,3,40000
+master's degree,director of marketing,9,95000
+high school,sales associate,1,35000
+phd,sales director,14,140000
+bachelor's degree,financial manager,5,70000
+phd,marketing manager,6,75000
+bachelor's degree,content marketing manager,12,120000
+master's degree,sales representative,2,40000
+phd,senior product marketing manager,16,160000
+bachelor's degree,junior sales representative,4,55000
+master's degree,director of marketing,10,100000
+bachelor's degree,sales manager,8,80000
+bachelor's degree,sales executive,1,35000
+master's degree,financial manager,13,130000
+master's degree,director of marketing,18,180000
+high school,sales associate,2,40000
+bachelor's degree,sales director,6,75000
+phd,financial manager,12,120000
+bachelor's degree,marketing manager,7,90000
+master's degree,sales representative,3,45000
+phd,senior product marketing manager,5,70000
+bachelor's degree,junior sales representative,1,30000
+bachelor's degree,sales manager,15,150000
+phd,marketing manager,8,80000
+master's degree,content marketing manager,16,160000
+high school,sales representative,2,40000
+bachelor's degree,sales director,10,100000
+phd,financial manager,5,70000
+bachelor's degree,marketing manager,12,120000
+bachelor's degree,sales associate,3,50000
+master's degree,marketing manager,14,140000
+bachelor's degree,financial manager,10,100000
+phd,digital marketing manager,1,30000
+master's degree,content marketing manager,6,75000
+bachelor's degree,sales manager,18,180000
+phd,senior product marketing manager,8,80000
+master's degree,director of marketing,12,120000
+high school,financial manager,3,45000
+bachelor's degree,sales director,7,90000
+phd,marketing manager,4,55000
+bachelor's degree,sales representative,2,40000
+high school,junior sales representative,3,40000
+bachelor's degree,sales manager,11,110000
+phd,financial manager,6,75000
+master's degree,content marketing manager,15,150000
+bachelor's degree,sales representative,5,70000
+phd,senior product marketing manager,19,190000
+master's degree,director of marketing,14,140000
+master's degree,sales manager,13,130000
+high school,digital marketing manager,2,40000
+bachelor's degree,content marketing manager,7,90000
+phd,sales representative,4,55000
+master's degree,senior product marketing manager,18,180000
+bachelor's degree,junior sales representative,3,45000
+phd,director of marketing,19,190000
+high school,sales associate,3,50000
+bachelor's degree,financial manager,4,55000
+master's degree,marketing manager,13,130000
+phd,senior product marketing manager,9,95000
+bachelor's degree,sales representative,1,35000
+master's degree,digital marketing manager,14,140000
+high school,sales manager,2,40000
+bachelor's degree,director of marketing,8,80000
+master's degree,content marketing manager,19,190000
+master's degree,marketing manager,11,110000
+phd,content marketing manager,15,150000
+high school,sales executive,4,55000
+bachelor's degree,sales manager,5,70000
+master's degree,director of marketing,16,160000
+phd,senior product marketing manager,7,90000
+bachelor's degree,content marketing manager,14,140000
+phd,marketing manager,18,180000
+bachelor's degree,sales executive,7,90000
+bachelor's degree,sales manager,1,35000
+bachelor's degree,sales director,8,80000
+master's degree,content marketing manager,18,180000
+bachelor's degree,sales representative,6,75000
+bachelor's degree,sales director,5,70000
+master's degree,director of marketing,15,150000
+master's degree,marketing manager,12,120000
+bachelor's degree,sales representative,3,45000
+phd,content marketing manager,16,160000
+high school,sales executive,5,70000
+master's degree,director of marketing,17,170000
+bachelor's degree,financial manager,11,110000
+master's degree,digital marketing manager,4,55000
+bachelor's degree,content marketing manager,15,150000
+phd,marketing manager,19,190000
+bachelor's degree,sales executive,8,80000
+bachelor's degree,sales representative,7,90000
+phd,senior product marketing manager,20,200000
+bachelor's degree,financial manager,13,130000
+phd,marketing manager,9,95000
+master's degree,sales manager,14,140000
+master's degree,senior product marketing manager,19,190000
+bachelor's degree,junior sales representative,6,75000
+phd,director of marketing,20,200000
+bachelor's degree,content marketing manager,13,130000
+phd,senior product marketing manager,10,100000
+master's degree,digital marketing manager,15,150000
