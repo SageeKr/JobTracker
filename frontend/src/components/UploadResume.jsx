@@ -45,18 +45,18 @@ function UploadResume({ moveDataToSignUp }) {
       });
 
       setIsLoading(false);
-      const errorData = await response.json();
+      const data = await response.json();
+      
 
       if (response.status === 400) {
-        setErrorMessage(errorData.message || "Upload failed");
+        setErrorMessage(data.message || "Upload failed");
         return;
       }
-      if (response.status === 500 && errorData.message.toLowerCase().includes("generativeai")) {
+      if (response.status === 500 && data.message.toLowerCase().includes("generativeai")) {
         setErrorMessage("Google Generative AI service error: Please try again later." || "Upload failed");
       }
 
       if (response.ok) {
-        const data = await response.json();
         const { identifier, name, email, phone } = data.cvData;
         setSnackbarOpen(true); // Set success message
         moveDataToSignUp( { "identifier":identifier, "name":name, "email":email, "phone":phone })
